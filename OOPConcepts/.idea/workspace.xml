@@ -26,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Shapes/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="136">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,13 +59,13 @@
         <option value="$PROJECT_DIR$/src/Shapes/Circle.java" />
         <option value="$PROJECT_DIR$/src/Shapes/Triangle.java" />
         <option value="$PROJECT_DIR$/src/Shapes/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/Shapes/Main.java" />
         <option value="$PROJECT_DIR$/src/Shapes/Shape.java" />
         <option value="$PROJECT_DIR$/src/Homework/LibraryApp/Novels.java" />
         <option value="$PROJECT_DIR$/src/Homework/LibraryApp/Books.java" />
         <option value="$PROJECT_DIR$/src/Homework/LibraryApp/Albums.java" />
         <option value="$PROJECT_DIR$/src/Homework/LibraryApp/Main.java" />
         <option value="$PROJECT_DIR$/src/ArrayExample/ArrayExample.java" />
+        <option value="$PROJECT_DIR$/src/Shapes/Main.java" />
       </list>
     </option>
   </component>
@@ -79,13 +79,13 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,16 +98,11 @@
               <item name="OOPConcepts" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="OOPConcepts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOPConcepts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayExample" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,8 +225,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29211086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -436,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Shapes/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
