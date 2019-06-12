@@ -6,9 +6,6 @@ import java.util.List;
 public class Main {
     public static void main(String args[]){
         //List<Shape> shapes=new ArrayList<>();
-        //x
-//yz
-        //5
         Circle circle= new Circle(1);
         displayShapeName(circle);
         displayShapeArea(circle);
